@@ -16,5 +16,5 @@ void Father::setName(string value)
 }
 void Father::Print()
 {
-	std::cout <<"BFather name: " << name << "\n";
+	std::cout <<"Father name: " << name << "\n";
 }

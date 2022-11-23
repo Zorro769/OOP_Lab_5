@@ -11,6 +11,6 @@ public:
 	~Child();
 	string getChildName();
 	void setChildName(string value);
-	void virtual Print();
+	void virtual Print() override;
 };
 

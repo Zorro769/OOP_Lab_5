@@ -16,5 +16,5 @@ void Child::setChildName(string value)
 }
 void Child::Print()
 {
-	cout << "Child Name: \n" << ChildName <<" "<< name << "vich";
+	cout << "Child Name: " << ChildName<<"\n" << "Father: " << name;
 }
